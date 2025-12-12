@@ -48,8 +48,6 @@ npm run preview
 ## Konfiguracja
 - Projekt nie wymaga kluczy API w tym repo, API jest prywatnym projektem, dostęp do backendu możliwy po kontakcie prywatnym, jeżeli masz własne API to zmień lokalizację w vite.config.ts 
 
-- Wyjasnienie endpointów API znajdują się w [docs/api.md](./docs/api.md)
-
 ## Struktura projektu (krótko)
 - `src/` — kod źródłowy
   - `components/` — atoms/molecules/organisms/templates
@@ -60,7 +58,7 @@ npm run preview
 ## Biblioteki
 
 - `d3` - dodaje wykres kołowy dla statystyk
-- `lucide` - specjalnie ikony svg
+- `lucide` ^0.561.0 - specjalnie ikony svg
 - `country-flag-icons` ^1.6.4 - ikony flag na komputerach
 
 ## Known issues
