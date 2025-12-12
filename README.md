@@ -8,8 +8,8 @@ Moja aplikacja codziennie generuje zestaw 10 fiszek, identyczny dla wszystkich u
 - [Link do live demo ->](https://fiszkireact.infinityfree.me/)
 
 ## Screenshots
-![pulpit](./public/img1.png)
-![analiza](./public/img2.png)
+![glowna](./public/img1.png)
+![statystyki](./public/img2.png)
 
 ## Video demo
 [Demo](https://youtu.be/mU6r3AmY8_A) 
@@ -60,7 +60,7 @@ npm run preview
 
 ## Biblioteki
 
-- `d3` - dodaje wykres kołowy w 
+- `d3` - dodaje wykres kołowy dla statystyk
 - `lucide` - specjalnie ikony svg
 - `country-flag-icons` ^1.6.4 - ikony flag na komputerach
 
