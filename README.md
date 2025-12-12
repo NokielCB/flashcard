@@ -1,7 +1,5 @@
-# Flashcard-react
-Projekt na lekcje
 # Podziękowania
-> Cały styl dokumentacji został pożyczony od [@Teczak-dev](https://github.com/Teczak-dev)
+> Cały styl dokumentacji został pożyczony od [@Teczak-dev](https://github.com/Teczak-dev) (za nieprzymuszoną jego zgodą)
 
 ## Krótki opis
 Moja aplikacja codziennie generuje zestaw 10 fiszek, identyczny dla wszystkich użytkowników: 8 łatwych oraz 2 trudne. Użytkownik może przeglądać swoje statystyki, a także – jeśli chce – zobaczyć pełną listę dostępnych fiszek. Aplikacja wspiera naukę dwóch języków: hiszpańskiego oraz angielskiego.
@@ -28,8 +26,8 @@ Moja aplikacja codziennie generuje zestaw 10 fiszek, identyczny dla wszystkich u
 ## Szybki start
 1. Sklonuj repozytorium
 ```bash
-git clone https://github.com/Teczak-dev/fittrack-frontend.git
-cd fittrack-frontend
+git clone https://github.com/NokielCB/flashcard.git
+cd flashcard
 ```
 2. Zainstaluj zależności
 ```bash
@@ -60,11 +58,9 @@ npm run preview
   - `pages/` — strony aplikacji (np. `Study.jsx`)
   - `assets/` — obrazy i zasoby publiczne
 
-Pełna dokumentacja znajduje się w katalogu [docs/structure](./docs/structure.md).
-
 ## Biblioteki
 
-- `hamburger-react` ^2.5.2 - do menu hamburget na stronie /home
+- `d3` - dodaje wykres kołowy w 
 - `react-circular-progressbar` ^2.2.0 - do renderowania kółka
 - `react-device-detect` ^2.2.3 - do wykrywania typu urządzenia ( telefon / komputer )
 - `recharts` ^3.5.1 - użyte do wyświetlania statystyk
