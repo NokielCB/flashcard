@@ -61,9 +61,8 @@ npm run preview
 ## Biblioteki
 
 - `d3` - dodaje wykres kołowy w 
-- `react-circular-progressbar` ^2.2.0 - do renderowania kółka
-- `react-device-detect` ^2.2.3 - do wykrywania typu urządzenia ( telefon / komputer )
-- `recharts` ^3.5.1 - użyte do wyświetlania statystyk
+- `lucide` - specjalnie ikony svg
+- `country-flag-icons` ^1.6.4 - ikony flag na komputerach
 
 ## Known issues
 Spis znanych problemów w [docs/known_issues.md](./docs/known_issues.md).
@@ -71,32 +70,11 @@ Spis znanych problemów w [docs/known_issues.md](./docs/known_issues.md).
 ## Architektura i komponenty
 - Diagram architektury i opis kluczowych komponentów: [docs/architecture.md](./docs/architecture.md) i [docs/components.md](./docs/components.md).
 
-## Co sprawiło trudność
-- Krótkie omówienie problemów i rozwiązań: [docs/adr.md](./docs/adr.md').
-
-## Contribution
-- Instrukcja dodawania funkcjonalności: [docs/contribution.md](./docs/contribution.md).
-
 ## Q&A
 #### Co sprawiło największe problemy i jak je rozwiązałeś?
-Największym problemem okazały się operacje na zbiorach danych (ćwiczenia). To na nich spędziłem najwięcej czasu. Poradziłem sobie dzięki korzystaniu z dokumentacji JS/TS, zasobów na StackOverflow oraz rozrysowaniu problemu.
-
-#### Czy powtórzyłbyś taki projekt?
-Nie!
-
-## Licencja
-Sprawdź plik `LICENSE` w repozytorium.
-
----
+Wszystko, a pomógł mi [@Teczak-dev](https://github.com/Teczak-dev)
 
 ## 👨‍💻 Autor
 
-**Mikołaj Sobczak** - [@Teczak-dev](https://github.com/Teczak-dev)
+**Jakub Nokielski**
 
-- 🌐 **Website:** [mikolaj-sobczak.pl](https://mikolaj-sobczak.pl/)
-- 💼 **LinkedIn:** [Mikołaj Sobczak](https://www.linkedin.com/in/mikołaj-sobczak-27b0a429a)
-- 📧 **Contact:** poprzez GitHub Issues
-
----
-
-*Projekt stworzony w celach edukacyjnych jako demonstracja nowoczesnych technik frontend development.*
