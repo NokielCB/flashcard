@@ -56,7 +56,6 @@ npm run preview
   - `context/` —  (`LanguageContext.jsx`)
   - `hooks/` — custom hook (`useDailyWords.js`)
   - `pages/` — strony aplikacji (np. `Study.jsx`)
-  - `assets/` — obrazy i zasoby publiczne
 
 ## Biblioteki
 
@@ -65,10 +64,7 @@ npm run preview
 - `country-flag-icons` ^1.6.4 - ikony flag na komputerach
 
 ## Known issues
-Spis znanych problemów w [docs/known_issues.md](./docs/known_issues.md).
-
-## Architektura i komponenty
-- Diagram architektury i opis kluczowych komponentów: [docs/architecture.md](./docs/architecture.md) i [docs/components.md](./docs/components.md).
+Po odświeżeniu strony na /stats lub /words strona się wywala. Znam rozwiązania jednak brak czasu na jego wdrożęnie 
 
 ## Q&A
 #### Co sprawiło największe problemy i jak je rozwiązałeś?
