@@ -1,0 +1,186 @@
+:root {
+  font-family: "Twemoji Country Flags", Inter, Helvetica, Arial, sans-serif;
+  min-height: 100vh;
+  line-height: 1.5;
+  color-scheme: light dark;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #e6ecff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+.flags-container {
+  position: absolute;
+  transform: translateY(-50%);
+  top: 50%;
+  left: 20px;
+  z-index: 100;
+  background-color: transparent;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.flags-container,
+.flags-container:focus,
+.flags-container:active,
+.flags-container:hover {
+  border: none;
+  outline: none;
+}
+
+.flags-container:hover {
+  transform: translateY(-50%) scale(1.1);
+}
+
+.flags {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  width: 55px;
+}
+
+a:hover {
+  color: #535bf2;
+}
+
+.wrapper {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0em 2em;
+}
+
+.wrapper-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 45%;
+  position: relative;
+}
+
+.book {
+  height: 50px;
+  stroke: #4e38f5;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.website-title-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.website-title {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.under-title {
+  position: relative;
+  top: -25px;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+.logo {
+  background-color: #646cff;
+  width: 64px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+
+  a:hover {
+    color: #747bff;
+  }
+
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    padding: 0em 1em;
+  }
+
+  .wrapper-box {
+    width: 95%;
+  }
+
+  .website-title {
+    font-size: 1.5em;
+  }
+
+  .book {
+    height: 40px;
+  }
+
+  .under-title {
+    top: -20px;
+  }
+
+  .flags-container {
+    top: 5px;
+    left: auto;
+    right: 0px;
+    transform: none;
+  }
+
+  .flags {
+    width: 35px;
+  }
+}
+
+@media (max-width: 480px) {
+
+  .wrapper {
+    padding: 0em 0.5em;
+  }
+
+  .website-title {
+    font-size: 1.3em;
+  }
+
+  .book {
+    height: 35px;
+  }
+}

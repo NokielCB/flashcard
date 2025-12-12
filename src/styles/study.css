@@ -1,0 +1,137 @@
+/* progress-bar */
+.progress-bar-box {
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.progress-text {
+    font-size: 0.95em;
+    color: #333;
+}
+
+.progress-text-box {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.progress-bar-empty {
+    height: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    background-color: #4e38f5;
+    transition: width 0.5s ease-in-out;
+    border-radius: 5px;
+}
+
+.flashcard {
+    width: 100%;
+    height: 250px;
+    border: 2px solid #007bff;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    transition: transform 0.6s;
+}
+
+.again-button {
+    padding: 12px 25px;
+    font-size: 18px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.know-button,
+.dont-know-button {
+    flex: 1;
+    padding: 15px 20px;
+    font-size: 18px;
+    background-color: #28a745;
+    color: white;
+    border: 2px solid #28a745;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.dont-know-button {
+    color: #dc3545;
+    border: 2px solid #dc3545;
+    background-color: white;
+}
+
+.stats-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    padding: 15px 0;
+    margin: 20px 0;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #eee;
+}
+
+@media (max-width: 500px) {
+
+    /* 1. Resetowanie Max-Width dla wszystkich głównych kontenerów */
+    .progress-bar-box,
+    .flashcard,
+    .stats-box,
+    .study-buttons-container {
+        max-width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        /* Zmniejszamy marginesy i padding na telefonach */
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    /* 2. Responsywność dla Przycisków Akcji */
+    .study-buttons-container {
+        flex-direction: column;
+        /* UKŁAD W PIONIE (KOLUMNIE) */
+        gap: 10px;
+    }
+
+    .know-button,
+    .dont-know-button {
+        padding: 12px 15px;
+        font-size: 16px;
+        /* Mniejsza czcionka */
+    }
+
+    /* 3. Responsywność dla Statystyk */
+    .stats-box {
+        padding: 10px 0;
+    }
+
+    /* 4. Mniejszy rozmiar dla fiszki */
+    .flashcard {
+        height: 180px;
+        margin-top: 15px;
+    }
+}

@@ -1,0 +1,181 @@
+.words-page {
+    padding: 20px;
+    width: 100%;
+}
+
+.search-bar-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.search-icon {
+    margin-right: 10px;
+    color: #666;
+}
+
+.search-input {
+    border: none;
+    outline: none;
+    flex-grow: 1;
+    font-size: 1em;
+    background-color: white;
+    color: #333;
+}
+
+.words-list-container {
+    max-height: 70vh;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+.no-results-message {
+    text-align: center;
+    color: #999;
+}
+
+.footer-stats {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+}
+
+.word-card {
+    padding: 15px;
+    margin: 10px 0;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    border-left: 5px solid #4e38f5;
+    transition: transform 0.2s;
+    cursor: default;
+}
+
+.word-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.word-card-pl {
+    margin: 0 0 5px 0;
+    color: #333;
+}
+
+.word-card-translation {
+    margin: 0;
+    font-size: 0.9em;
+    color: #666;
+    font-weight: bold;
+}
+
+.word-card-details {
+    text-align: right;
+    font-size: 0.85em;
+    color: #999;
+    line-height: 1.4;
+}
+
+.word-card-category {
+    margin: 0;
+    color: #4e38f5;
+    font-weight: bold;
+}
+
+.word-card-difficulty {
+    margin: 0;
+}
+
+.word-card-example-container {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed #eee;
+}
+
+.word-card-example-text {
+    margin: 0;
+    font-size: 0.9em;
+    color: #444;
+    font-style: italic;
+    white-space: pre-wrap;
+}
+
+/* --- STYLIZACJA SCROLLBARA (FIOLETOWY) --- */
+
+.words-list-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.words-list-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.words-list-container::-webkit-scrollbar-thumb {
+    background: #4e38f5;
+    border-radius: 10px;
+}
+
+.words-list-container::-webkit-scrollbar-thumb:hover {
+    background: #3a25e0;
+}
+
+.words-list-container {
+    scrollbar-color: #4e38f5 #f1f1f1;
+    scrollbar-width: thin;
+}
+
+/* ------------------------------------------------ */
+/* --- RESPONSIVE STYLE (MEDIA QUERIES) --- */
+/* ------------------------------------------------ */
+
+@media (max-width: 600px) {
+
+    .words-page {
+        padding: 10px;
+    }
+
+    .word-card {
+        margin: 8px 0;
+        padding: 12px;
+    }
+
+    .word-card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 5px;
+    }
+
+    .word-card-details {
+        text-align: left;
+        margin-top: 5px;
+        font-size: 0.8em;
+    }
+
+    .search-bar-container {
+        width: 92%;
+    }
+
+    .word-card-pl {
+        font-size: 1.1em;
+    }
+
+    .word-card-translation {
+        font-size: 0.8em;
+    }
+
+    .word-card-example-text {
+        font-size: 0.85em;
+    }
+
+    .footer-stats {
+        font-size: 0.8em;
+        margin-top: 10px;
+    }
+}

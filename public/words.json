@@ -1,0 +1,1804 @@
+{
+    "words": [
+        {
+            "id": 1,
+            "pl": "kuchnia",
+            "en": "kitchen",
+            "es": "cocina",
+            "category": "dom",
+            "difficulty": "easy",
+            "example": {
+                "en": "The kitchen is bright and spacious.",
+                "es": "La cocina es luminosa y espaciosa."
+            }
+        },
+        {
+            "id": 2,
+            "pl": "sypialnia",
+            "en": "bedroom",
+            "es": "dormitorio",
+            "category": "dom",
+            "difficulty": "easy",
+            "example": {
+                "en": "I read in my bedroom.",
+                "es": "Leo en mi dormitorio."
+            }
+        },
+        {
+            "id": 3,
+            "pl": "okno",
+            "en": "window",
+            "es": "ventana",
+            "category": "dom",
+            "difficulty": "easy",
+            "example": {
+                "en": "Please close the window.",
+                "es": "Por favor, cierra la ventana."
+            }
+        },
+        {
+            "id": 4,
+            "pl": "stół",
+            "en": "table",
+            "es": "mesa",
+            "category": "dom",
+            "difficulty": "easy",
+            "example": {
+                "en": "Dinner is on the table.",
+                "es": "La cena está en la mesa."
+            }
+        },
+        {
+            "id": 5,
+            "pl": "krzesło",
+            "en": "chair",
+            "es": "silla",
+            "category": "dom",
+            "difficulty": "easy",
+            "example": {
+                "en": "Take a seat on the chair.",
+                "es": "Toma asiento en la silla."
+            }
+        },
+        {
+            "id": 6,
+            "pl": "łazienka",
+            "en": "bathroom",
+            "es": "baño",
+            "category": "dom",
+            "difficulty": "easy",
+            "example": {
+                "en": "The bathroom is occupied.",
+                "es": "El baño está ocupado."
+            }
+        },
+        {
+            "id": 7,
+            "pl": "dywan",
+            "en": "carpet",
+            "es": "alfombra",
+            "category": "dom",
+            "difficulty": "easy",
+            "example": {
+                "en": "There is a large carpet in the living room.",
+                "es": "Hay una alfombra grande en la sala."
+            }
+        },
+        {
+            "id": 8,
+            "pl": "lampa",
+            "en": "lamp",
+            "es": "lámpara",
+            "category": "dom",
+            "difficulty": "easy",
+            "example": {
+                "en": "Turn off the lamp.",
+                "es": "Apaga la lámpara."
+            }
+        },
+        {
+            "id": 9,
+            "pl": "antresola",
+            "en": "mezzanine",
+            "es": "entresuelo",
+            "category": "dom",
+            "difficulty": "hard",
+            "example": {
+                "en": "The apartment has a small mezzanine.",
+                "es": "El apartamento tiene un pequeño entresuelo."
+            }
+        },
+        {
+            "id": 10,
+            "pl": "konsola",
+            "en": "sideboard",
+            "es": "aparador",
+            "category": "dom",
+            "difficulty": "hard",
+            "example": {
+                "en": "We placed the keys on the sideboard.",
+                "es": "Colocamos las llaves en el aparador."
+            }
+        },
+        {
+            "id": 11,
+            "pl": "biegać",
+            "en": "to run",
+            "es": "correr",
+            "category": "czynności",
+            "difficulty": "easy",
+            "example": {
+                "en": "I like to run in the morning.",
+                "es": "Me gusta correr por la mañana."
+            }
+        },
+        {
+            "id": 12,
+            "pl": "czytać",
+            "en": "to read",
+            "es": "leer",
+            "category": "czynności",
+            "difficulty": "easy",
+            "example": {
+                "en": "Can you read this letter?",
+                "es": "¿Puedes leer esta carta?"
+            }
+        },
+        {
+            "id": 13,
+            "pl": "pisać",
+            "en": "to write",
+            "es": "escribir",
+            "category": "czynności",
+            "difficulty": "easy",
+            "example": {
+                "en": "She writes an email every day.",
+                "es": "Ella escribe un correo electrónico todos los días."
+            }
+        },
+        {
+            "id": 14,
+            "pl": "jeść",
+            "en": "to eat",
+            "es": "comer",
+            "category": "czynności",
+            "difficulty": "easy",
+            "example": {
+                "en": "We will eat pizza tonight.",
+                "es": "Comeremos pizza esta noche."
+            }
+        },
+        {
+            "id": 15,
+            "pl": "spać",
+            "en": "to sleep",
+            "es": "dormir",
+            "category": "czynności",
+            "difficulty": "easy",
+            "example": {
+                "en": "I need to sleep early.",
+                "es": "Necesito dormir temprano."
+            }
+        },
+        {
+            "id": 16,
+            "pl": "mówić",
+            "en": "to speak",
+            "es": "hablar",
+            "category": "czynności",
+            "difficulty": "easy",
+            "example": {
+                "en": "Can you speak Spanish?",
+                "es": "¿Puedes hablar español?"
+            }
+        },
+        {
+            "id": 17,
+            "pl": "słuchać",
+            "en": "to listen",
+            "es": "escuchar",
+            "category": "czynności",
+            "difficulty": "easy",
+            "example": {
+                "en": "Listen to the music.",
+                "es": "Escucha la música."
+            }
+        },
+        {
+            "id": 18,
+            "pl": "gotować",
+            "en": "to cook",
+            "es": "cocinar",
+            "category": "czynności",
+            "difficulty": "easy",
+            "example": {
+                "en": "I love to cook Italian food.",
+                "es": "Me encanta cocinar comida italiana."
+            }
+        },
+        {
+            "id": 19,
+            "pl": "negocjować",
+            "en": "to negotiate",
+            "es": "negociar",
+            "category": "czynności",
+            "difficulty": "hard",
+            "example": {
+                "en": "They need to negotiate the terms of the contract.",
+                "es": "Necesitan negociar los términos del contrato."
+            }
+        },
+        {
+            "id": 20,
+            "pl": "obserwować",
+            "en": "to observe",
+            "es": "observar",
+            "category": "czynności",
+            "difficulty": "hard",
+            "example": {
+                "en": "The scientist observes the stars.",
+                "es": "El científico observa las estrellas."
+            }
+        },
+        {
+            "id": 21,
+            "pl": "pomarańcza",
+            "en": "orange",
+            "es": "naranja",
+            "category": "jedzenie",
+            "difficulty": "easy",
+            "example": {
+                "en": "I'll have an orange for dessert.",
+                "es": "Tomaré una naranja de postre."
+            }
+        },
+        {
+            "id": 22,
+            "pl": "chleb",
+            "en": "bread",
+            "es": "pan",
+            "category": "jedzenie",
+            "difficulty": "easy",
+            "example": {
+                "en": "We bought fresh bread.",
+                "es": "Compramos pan fresco."
+            }
+        },
+        {
+            "id": 23,
+            "pl": "ser",
+            "en": "cheese",
+            "es": "queso",
+            "category": "jedzenie",
+            "difficulty": "easy",
+            "example": {
+                "en": "Do you like yellow cheese?",
+                "es": "¿Te gusta el queso amarillo?"
+            }
+        },
+        {
+            "id": 24,
+            "pl": "mleko",
+            "en": "milk",
+            "es": "leche",
+            "category": "jedzenie",
+            "difficulty": "easy",
+            "example": {
+                "en": "I drink milk with my cereal.",
+                "es": "Bebo leche con mis cereales."
+            }
+        },
+        {
+            "id": 25,
+            "pl": "kurczak",
+            "en": "chicken",
+            "es": "pollo",
+            "category": "jedzenie",
+            "difficulty": "easy",
+            "example": {
+                "en": "We are having roast chicken.",
+                "es": "Vamos a cenar pollo asado."
+            }
+        },
+        {
+            "id": 26,
+            "pl": "ryż",
+            "en": "rice",
+            "es": "arroz",
+            "category": "jedzenie",
+            "difficulty": "easy",
+            "example": {
+                "en": "Rice is a staple food.",
+                "es": "El arroz es un alimento básico."
+            }
+        },
+        {
+            "id": 27,
+            "pl": "sałata",
+            "en": "lettuce",
+            "es": "lechuga",
+            "category": "jedzenie",
+            "difficulty": "easy",
+            "example": {
+                "en": "Add some lettuce to the sandwich.",
+                "es": "Agrega un poco de lechuga al sándwich."
+            }
+        },
+        {
+            "id": 28,
+            "pl": "sól",
+            "en": "salt",
+            "es": "sal",
+            "category": "jedzenie",
+            "difficulty": "easy",
+            "example": {
+                "en": "This soup needs more salt.",
+                "es": "Esta sopa necesita más sal."
+            }
+        },
+        {
+            "id": 29,
+            "pl": "szczypiorek",
+            "en": "chives",
+            "es": "cebollino",
+            "category": "jedzenie",
+            "difficulty": "hard",
+            "example": {
+                "en": "We garnish the soup with chives.",
+                "es": "Adornamos la sopa con cebollino."
+            }
+        },
+        {
+            "id": 30,
+            "pl": "wędliny",
+            "en": "cold cuts",
+            "es": "embutidos",
+            "category": "jedzenie",
+            "difficulty": "hard",
+            "example": {
+                "en": "We bought some cold cuts for breakfast.",
+                "es": "Compramos algunos embutidos para el desayuno."
+            }
+        },
+        {
+            "id": 31,
+            "pl": "praca",
+            "en": "work",
+            "es": "trabajo",
+            "category": "praca",
+            "difficulty": "easy",
+            "example": {
+                "en": "I have a lot of work to do.",
+                "es": "Tengo mucho trabajo que hacer."
+            }
+        },
+        {
+            "id": 32,
+            "pl": "biuro",
+            "en": "office",
+            "es": "oficina",
+            "category": "praca",
+            "difficulty": "easy",
+            "example": {
+                "en": "My office is on the fifth floor.",
+                "es": "Mi oficina está en el quinto piso."
+            }
+        },
+        {
+            "id": 33,
+            "pl": "szef",
+            "en": "boss",
+            "es": "jefe",
+            "category": "praca",
+            "difficulty": "easy",
+            "example": {
+                "en": "My boss is very demanding.",
+                "es": "Mi jefe es muy exigente."
+            }
+        },
+        {
+            "id": 34,
+            "pl": "pracownik",
+            "en": "employee",
+            "es": "empleado",
+            "category": "praca",
+            "difficulty": "easy",
+            "example": {
+                "en": "Every employee must follow the rules.",
+                "es": "Cada empleado debe seguir las reglas."
+            }
+        },
+        {
+            "id": 35,
+            "pl": "pensja",
+            "en": "salary",
+            "es": "salario",
+            "category": "praca",
+            "difficulty": "easy",
+            "example": {
+                "en": "He receives his salary at the end of the month.",
+                "es": "Recibe su salario a fin de mes."
+            }
+        },
+        {
+            "id": 36,
+            "pl": "spotkanie",
+            "en": "meeting",
+            "es": "reunión",
+            "category": "praca",
+            "difficulty": "easy",
+            "example": {
+                "en": "The meeting is scheduled for 10 AM.",
+                "es": "La reunión está programada para las 10 AM."
+            }
+        },
+        {
+            "id": 37,
+            "pl": "komputer",
+            "en": "computer",
+            "es": "ordenador",
+            "category": "praca",
+            "difficulty": "easy",
+            "example": {
+                "en": "I use a computer at work every day.",
+                "es": "Uso un ordenador en el trabajo todos los días."
+            }
+        },
+        {
+            "id": 38,
+            "pl": "dokument",
+            "en": "document",
+            "es": "documento",
+            "category": "praca",
+            "difficulty": "easy",
+            "example": {
+                "en": "Please sign this document.",
+                "es": "Por favor, firma este documento."
+            }
+        },
+        {
+            "id": 39,
+            "pl": "podwyżka",
+            "en": "raise",
+            "es": "aumento de sueldo",
+            "category": "praca",
+            "difficulty": "hard",
+            "example": {
+                "en": "I asked my boss for a raise.",
+                "es": "Le pedí a mi jefe un aumento de sueldo."
+            }
+        },
+        {
+            "id": 40,
+            "pl": "rekrutacja",
+            "en": "recruitment",
+            "es": "reclutamiento",
+            "category": "praca",
+            "difficulty": "hard",
+            "example": {
+                "en": "The recruitment process will take two weeks.",
+                "es": "El proceso de reclutamiento tomará dos semanas."
+            }
+        },
+        {
+            "id": 41,
+            "pl": "drzewo",
+            "en": "tree",
+            "es": "árbol",
+            "category": "natura",
+            "difficulty": "easy",
+            "example": {
+                "en": "A bird is singing in the tree.",
+                "es": "Un pájaro está cantando en el árbol."
+            }
+        },
+        {
+            "id": 42,
+            "pl": "kwiat",
+            "en": "flower",
+            "es": "flor",
+            "category": "natura",
+            "difficulty": "easy",
+            "example": {
+                "en": "She received a beautiful flower.",
+                "es": "Ella recibió una flor hermosa."
+            }
+        },
+        {
+            "id": 43,
+            "pl": "rzeka",
+            "en": "river",
+            "es": "río",
+            "category": "natura",
+            "difficulty": "easy",
+            "example": {
+                "en": "The river flows into the sea.",
+                "es": "El río fluye hacia el mar."
+            }
+        },
+        {
+            "id": 44,
+            "pl": "góry",
+            "en": "mountains",
+            "es": "montañas",
+            "category": "natura",
+            "difficulty": "easy",
+            "example": {
+                "en": "We went hiking in the mountains.",
+                "es": "Fuimos de excursión a las montañas."
+            }
+        },
+        {
+            "id": 45,
+            "pl": "las",
+            "en": "forest",
+            "es": "bosque",
+            "category": "natura",
+            "difficulty": "easy",
+            "example": {
+                "en": "The forest is dark and mysterious.",
+                "es": "El bosque es oscuro y misterioso."
+            }
+        },
+        {
+            "id": 46,
+            "pl": "morze",
+            "en": "sea",
+            "es": "mar",
+            "category": "natura",
+            "difficulty": "easy",
+            "example": {
+                "en": "I love the sound of the sea.",
+                "es": "Me encanta el sonido del mar."
+            }
+        },
+        {
+            "id": 47,
+            "pl": "słońce",
+            "en": "sun",
+            "es": "sol",
+            "category": "natura",
+            "difficulty": "easy",
+            "example": {
+                "en": "The sun is very bright today.",
+                "es": "El sol está muy brillante hoy."
+            }
+        },
+        {
+            "id": 48,
+            "pl": "deszcz",
+            "en": "rain",
+            "es": "lluvia",
+            "category": "natura",
+            "difficulty": "easy",
+            "example": {
+                "en": "Don't go outside, it's starting to rain.",
+                "es": "No salgas, está empezando a llover."
+            }
+        },
+        {
+            "id": 49,
+            "pl": "wodospad",
+            "en": "waterfall",
+            "es": "cascada",
+            "category": "natura",
+            "difficulty": "hard",
+            "example": {
+                "en": "The waterfall is a spectacular sight.",
+                "es": "La cascada es un espectáculo impresionante."
+            }
+        },
+        {
+            "id": 50,
+            "pl": "ekosystem",
+            "en": "ecosystem",
+            "es": "ecosistema",
+            "category": "natura",
+            "difficulty": "hard",
+            "example": {
+                "en": "We must protect the local ecosystem.",
+                "es": "Debemos proteger el ecosistema local."
+            }
+        },
+        {
+            "id": 51,
+            "pl": "samolot",
+            "en": "plane",
+            "es": "avión",
+            "category": "podróże",
+            "difficulty": "easy",
+            "example": {
+                "en": "The plane will take off in an hour.",
+                "es": "El avión despegará en una hora."
+            }
+        },
+        {
+            "id": 52,
+            "pl": "bilet",
+            "en": "ticket",
+            "es": "billete",
+            "category": "podróże",
+            "difficulty": "easy",
+            "example": {
+                "en": "I need to buy a train ticket.",
+                "es": "Necesito comprar un billete de tren."
+            }
+        },
+        {
+            "id": 53,
+            "pl": "bagaż",
+            "en": "luggage",
+            "es": "equipaje",
+            "category": "podróże",
+            "difficulty": "easy",
+            "example": {
+                "en": "My luggage is too heavy.",
+                "es": "Mi equipaje es demasiado pesado."
+            }
+        },
+        {
+            "id": 54,
+            "pl": "hotel",
+            "en": "hotel",
+            "es": "hotel",
+            "category": "podróże",
+            "difficulty": "easy",
+            "example": {
+                "en": "We are staying at a five-star hotel.",
+                "es": "Nos alojamos en un hotel de cinco estrellas."
+            }
+        },
+        {
+            "id": 55,
+            "pl": "mapa",
+            "en": "map",
+            "es": "mapa",
+            "category": "podróże",
+            "difficulty": "easy",
+            "example": {
+                "en": "Can you show me on the map?",
+                "es": "¿Puedes mostrarme en el mapa?"
+            }
+        },
+        {
+            "id": 56,
+            "pl": "paszport",
+            "en": "passport",
+            "es": "pasaporte",
+            "category": "podróże",
+            "difficulty": "easy",
+            "example": {
+                "en": "You need a passport to travel abroad.",
+                "es": "Necesitas un pasaporte para viajar al extranjero."
+            }
+        },
+        {
+            "id": 57,
+            "pl": "lotnisko",
+            "en": "airport",
+            "es": "aeropuerto",
+            "category": "podróże",
+            "difficulty": "easy",
+            "example": {
+                "en": "Our flight departs from terminal two.",
+                "es": "Nuestro vuelo sale de la terminal dos."
+            }
+        },
+        {
+            "id": 58,
+            "pl": "wakacje",
+            "en": "holidays",
+            "es": "vacaciones",
+            "category": "podróże",
+            "difficulty": "easy",
+            "example": {
+                "en": "I'm going on holiday to Spain.",
+                "es": "Voy de vacaciones a España."
+            }
+        },
+        {
+            "id": 59,
+            "pl": "rezerwacja",
+            "en": "reservation",
+            "es": "reserva",
+            "category": "podróże",
+            "difficulty": "hard",
+            "example": {
+                "en": "I have a reservation for two people.",
+                "es": "Tengo una reserva para dos personas."
+            }
+        },
+        {
+            "id": 60,
+            "pl": "napiwek",
+            "en": "tip",
+            "es": "propina",
+            "category": "podróże",
+            "difficulty": "hard",
+            "example": {
+                "en": "It's customary to leave a tip for the waiter.",
+                "es": "Es costumbre dejar una propina al camarero."
+            }
+        },
+        {
+            "id": 61,
+            "pl": "godzina",
+            "en": "hour",
+            "es": "hora",
+            "category": "czas",
+            "difficulty": "easy",
+            "example": {
+                "en": "The lesson lasts one hour.",
+                "es": "La lección dura una hora."
+            }
+        },
+        {
+            "id": 62,
+            "pl": "minuta",
+            "en": "minute",
+            "es": "minuto",
+            "category": "czas",
+            "difficulty": "easy",
+            "example": {
+                "en": "Wait a minute, please.",
+                "es": "Espera un minuto, por favor."
+            }
+        },
+        {
+            "id": 63,
+            "pl": "dzień",
+            "en": "day",
+            "es": "día",
+            "category": "czas",
+            "difficulty": "easy",
+            "example": {
+                "en": "What a beautiful day!",
+                "es": "¡Qué día tan bonito!"
+            }
+        },
+        {
+            "id": 64,
+            "pl": "noc",
+            "en": "night",
+            "es": "noche",
+            "category": "czas",
+            "difficulty": "easy",
+            "example": {
+                "en": "The stars are bright at night.",
+                "es": "Las estrellas brillan en la noche."
+            }
+        },
+        {
+            "id": 65,
+            "pl": "tydzień",
+            "en": "week",
+            "es": "semana",
+            "category": "czas",
+            "difficulty": "easy",
+            "example": {
+                "en": "I work five days a week.",
+                "es": "Trabajo cinco días a la semana."
+            }
+        },
+        {
+            "id": 66,
+            "pl": "miesiąc",
+            "en": "month",
+            "es": "mes",
+            "category": "czas",
+            "difficulty": "easy",
+            "example": {
+                "en": "My birthday is next month.",
+                "es": "Mi cumpleaños es el próximo mes."
+            }
+        },
+        {
+            "id": 67,
+            "pl": "rok",
+            "en": "year",
+            "es": "año",
+            "category": "czas",
+            "difficulty": "easy",
+            "example": {
+                "en": "She is ten years old.",
+                "es": "Ella tiene diez años."
+            }
+        },
+        {
+            "id": 68,
+            "pl": "wczoraj",
+            "en": "yesterday",
+            "es": "ayer",
+            "category": "czas",
+            "difficulty": "easy",
+            "example": {
+                "en": "I saw him yesterday.",
+                "es": "Lo vi ayer."
+            }
+        },
+        {
+            "id": 69,
+            "pl": "przyszłość",
+            "en": "future",
+            "es": "futuro",
+            "category": "czas",
+            "difficulty": "hard",
+            "example": {
+                "en": "Technology will change our future.",
+                "es": "La tecnología cambiará nuestro futuro."
+            }
+        },
+        {
+            "id": 70,
+            "pl": "przeszłość",
+            "en": "past",
+            "es": "pasado",
+            "category": "czas",
+            "difficulty": "hard",
+            "example": {
+                "en": "Don't worry about the past.",
+                "es": "No te preocupes por el pasado."
+            }
+        },
+        {
+            "id": 71,
+            "pl": "człowiek",
+            "en": "person",
+            "es": "persona",
+            "category": "ludzie",
+            "difficulty": "easy",
+            "example": {
+                "en": "He is a very kind person.",
+                "es": "Es una persona muy amable."
+            }
+        },
+        {
+            "id": 72,
+            "pl": "mężczyzna",
+            "en": "man",
+            "es": "hombre",
+            "category": "ludzie",
+            "difficulty": "easy",
+            "example": {
+                "en": "That man is my father.",
+                "es": "Ese hombre es mi padre."
+            }
+        },
+        {
+            "id": 73,
+            "pl": "kobieta",
+            "en": "woman",
+            "es": "mujer",
+            "category": "ludzie",
+            "difficulty": "easy",
+            "example": {
+                "en": "The woman is waiting for a bus.",
+                "es": "La mujer está esperando un autobús."
+            }
+        },
+        {
+            "id": 74,
+            "pl": "dziecko",
+            "en": "child",
+            "es": "niño",
+            "category": "ludzie",
+            "difficulty": "easy",
+            "example": {
+                "en": "The child is playing in the park.",
+                "es": "El niño está jugando en el parque."
+            }
+        },
+        {
+            "id": 75,
+            "pl": "przyjaciel",
+            "en": "friend",
+            "es": "amigo",
+            "category": "ludzie",
+            "difficulty": "easy",
+            "example": {
+                "en": "She is my best friend.",
+                "es": "Ella es mi mejor amiga."
+            }
+        },
+        {
+            "id": 76,
+            "pl": "rodzina",
+            "en": "family",
+            "es": "familia",
+            "category": "ludzie",
+            "difficulty": "easy",
+            "example": {
+                "en": "I love my family.",
+                "es": "Quiero a mi familia."
+            }
+        },
+        {
+            "id": 77,
+            "pl": "mama",
+            "en": "mom",
+            "es": "mamá",
+            "category": "ludzie",
+            "difficulty": "easy",
+            "example": {
+                "en": "My mom cooks delicious food.",
+                "es": "Mi mamá cocina comida deliciosa."
+            }
+        },
+        {
+            "id": 78,
+            "pl": "tata",
+            "en": "dad",
+            "es": "papá",
+            "category": "ludzie",
+            "difficulty": "easy",
+            "example": {
+                "en": "My dad is tall.",
+                "es": "Mi papá es alto."
+            }
+        },
+        {
+            "id": 79,
+            "pl": "bliźniak",
+            "en": "twin",
+            "es": "gemelo",
+            "category": "ludzie",
+            "difficulty": "hard",
+            "example": {
+                "en": "My brother and I are twins.",
+                "es": "Mi hermano y yo somos gemelos."
+            }
+        },
+        {
+            "id": 80,
+            "pl": "sąsiad",
+            "en": "neighbor",
+            "es": "vecino",
+            "category": "ludzie",
+            "difficulty": "hard",
+            "example": {
+                "en": "My neighbor is very friendly.",
+                "es": "Mi vecino es muy amigable."
+            }
+        },
+        {
+            "id": 81,
+            "pl": "koszula",
+            "en": "shirt",
+            "es": "camisa",
+            "category": "ubrania",
+            "difficulty": "easy",
+            "example": {
+                "en": "I need to iron my shirt.",
+                "es": "Necesito planchar mi camisa."
+            }
+        },
+        {
+            "id": 82,
+            "pl": "spodnie",
+            "en": "trousers",
+            "es": "pantalones",
+            "category": "ubrania",
+            "difficulty": "easy",
+            "example": {
+                "en": "These trousers are too long.",
+                "es": "Estos pantalones son demasiado largos."
+            }
+        },
+        {
+            "id": 83,
+            "pl": "sukienka",
+            "en": "dress",
+            "es": "vestido",
+            "category": "ubrania",
+            "difficulty": "easy",
+            "example": {
+                "en": "She wore a beautiful dress to the party.",
+                "es": "Llevaba un vestido precioso a la fiesta."
+            }
+        },
+        {
+            "id": 84,
+            "pl": "buty",
+            "en": "shoes",
+            "es": "zapatos",
+            "category": "ubrania",
+            "difficulty": "easy",
+            "example": {
+                "en": "I need to buy new shoes.",
+                "es": "Necesito comprar zapatos nuevos."
+            }
+        },
+        {
+            "id": 85,
+            "pl": "sweter",
+            "en": "sweater",
+            "es": "suéter",
+            "category": "ubrania",
+            "difficulty": "easy",
+            "example": {
+                "en": "It's cold, so wear a sweater.",
+                "es": "Hace frío, así que ponte un suéter."
+            }
+        },
+        {
+            "id": 86,
+            "pl": "kurtka",
+            "en": "jacket",
+            "es": "chaqueta",
+            "category": "ubrania",
+            "difficulty": "easy",
+            "example": {
+                "en": "Don't forget your jacket.",
+                "es": "No olvides tu chaqueta."
+            }
+        },
+        {
+            "id": 87,
+            "pl": "czapka",
+            "en": "hat",
+            "es": "gorro",
+            "category": "ubrania",
+            "difficulty": "easy",
+            "example": {
+                "en": "Put on your hat, it's windy.",
+                "es": "Ponte el gorro, hace viento."
+            }
+        },
+        {
+            "id": 88,
+            "pl": "skarpety",
+            "en": "socks",
+            "es": "calcetines",
+            "category": "ubrania",
+            "difficulty": "easy",
+            "example": {
+                "en": "I can't find a matching pair of socks.",
+                "es": "No encuentro un par de calcetines que coincidan."
+            }
+        },
+        {
+            "id": 89,
+            "pl": "krawat",
+            "en": "tie",
+            "es": "corbata",
+            "category": "ubrania",
+            "difficulty": "hard",
+            "example": {
+                "en": "He wore a suit and a tie.",
+                "es": "Llevaba un traje y una corbata."
+            }
+        },
+        {
+            "id": 90,
+            "pl": "rękawiczki",
+            "en": "gloves",
+            "es": "guantes",
+            "category": "ubrania",
+            "difficulty": "hard",
+            "example": {
+                "en": "My hands are cold, I need my gloves.",
+                "es": "Tengo las manos frías, necesito mis guantes."
+            }
+        },
+        {
+            "id": 91,
+            "pl": "pies",
+            "en": "dog",
+            "es": "perro",
+            "category": "zwierzęta",
+            "difficulty": "easy",
+            "example": {
+                "en": "The dog is wagging its tail.",
+                "es": "El perro está moviendo la cola."
+            }
+        },
+        {
+            "id": 92,
+            "pl": "kot",
+            "en": "cat",
+            "es": "gato",
+            "category": "zwierzęta",
+            "difficulty": "easy",
+            "example": {
+                "en": "The cat is sleeping on the sofa.",
+                "es": "El gato está durmiendo en el sofá."
+            }
+        },
+        {
+            "id": 93,
+            "pl": "koń",
+            "en": "horse",
+            "es": "caballo",
+            "category": "zwierzęta",
+            "difficulty": "easy",
+            "example": {
+                "en": "She loves to ride a horse.",
+                "es": "Le encanta montar a caballo."
+            }
+        },
+        {
+            "id": 94,
+            "pl": "krowa",
+            "en": "cow",
+            "es": "vaca",
+            "category": "zwierzęta",
+            "difficulty": "easy",
+            "example": {
+                "en": "The cow is in the field.",
+                "es": "La vaca está en el campo."
+            }
+        },
+        {
+            "id": 95,
+            "pl": "świnia",
+            "en": "pig",
+            "es": "cerdo",
+            "category": "zwierzęta",
+            "difficulty": "easy",
+            "example": {
+                "en": "The pig likes to play in the mud.",
+                "es": "Al cerdo le gusta jugar en el barro."
+            }
+        },
+        {
+            "id": 96,
+            "pl": "ptak",
+            "en": "bird",
+            "es": "pájaro",
+            "category": "zwierzęta",
+            "difficulty": "easy",
+            "example": {
+                "en": "A little bird is singing outside my window.",
+                "es": "Un pájaro pequeño está cantando fuera de mi ventana."
+            }
+        },
+        {
+            "id": 97,
+            "pl": "ryba",
+            "en": "fish",
+            "es": "pez",
+            "category": "zwierzęta",
+            "difficulty": "easy",
+            "example": {
+                "en": "We caught a big fish.",
+                "es": "Pescamos un pez grande."
+            }
+        },
+        {
+            "id": 98,
+            "pl": "lew",
+            "en": "lion",
+            "es": "león",
+            "category": "zwierzęta",
+            "difficulty": "easy",
+            "example": {
+                "en": "The lion is the king of the jungle.",
+                "es": "El león es el rey de la jungla."
+            }
+        },
+        {
+            "id": 99,
+            "pl": "żyrafa",
+            "en": "giraffe",
+            "es": "jirafa",
+            "category": "zwierzęta",
+            "difficulty": "hard",
+            "example": {
+                "en": "The giraffe has a very long neck.",
+                "es": "La jirafa tiene un cuello muy largo."
+            }
+        },
+        {
+            "id": 100,
+            "pl": "hipopotam",
+            "en": "hippopotamus",
+            "es": "hipopótamo",
+            "category": "zwierzęta",
+            "difficulty": "hard",
+            "example": {
+                "en": "The hippopotamus spends a lot of time in the water.",
+                "es": "El hipopótamo pasa mucho tiempo en el agua."
+            }
+        },
+        {
+            "id": 101,
+            "pl": "naukowiec",
+            "en": "scientist",
+            "es": "científico",
+            "category": "nauka",
+            "difficulty": "easy",
+            "example": {
+                "en": "The scientist made an important discovery.",
+                "es": "El científico hizo un descubrimiento importante."
+            }
+        },
+        {
+            "id": 102,
+            "pl": "eksperyment",
+            "en": "experiment",
+            "es": "experimento",
+            "category": "nauka",
+            "difficulty": "easy",
+            "example": {
+                "en": "We are conducting an experiment in chemistry.",
+                "es": "Estamos realizando un experimento de química."
+            }
+        },
+        {
+            "id": 103,
+            "pl": "teoria",
+            "en": "theory",
+            "es": "teoría",
+            "category": "nauka",
+            "difficulty": "easy",
+            "example": {
+                "en": "It's just a theory, not a fact.",
+                "es": "Es solo una teoría, no un hecho."
+            }
+        },
+        {
+            "id": 104,
+            "pl": "badanie",
+            "en": "research",
+            "es": "investigación",
+            "category": "nauka",
+            "difficulty": "easy",
+            "example": {
+                "en": "She is doing medical research.",
+                "es": "Ella está haciendo una investigación médica."
+            }
+        },
+        {
+            "id": 105,
+            "pl": "odkrycie",
+            "en": "discovery",
+            "es": "descubrimiento",
+            "category": "nauka",
+            "difficulty": "easy",
+            "example": {
+                "en": "The discovery of penicillin was revolutionary.",
+                "es": "El descubrimiento de la penicilina fue revolucionario."
+            }
+        },
+        {
+            "id": 106,
+            "pl": "laboratorium",
+            "en": "laboratory",
+            "es": "laboratorio",
+            "category": "nauka",
+            "difficulty": "easy",
+            "example": {
+                "en": "The scientists work in the laboratory.",
+                "es": "Los científicos trabajan en el laboratorio."
+            }
+        },
+        {
+            "id": 107,
+            "pl": "mikroskop",
+            "en": "microscope",
+            "es": "microscopio",
+            "category": "nauka",
+            "difficulty": "easy",
+            "example": {
+                "en": "He looked at the cells through a microscope.",
+                "es": "Miró las células a través del microscopio."
+            }
+        },
+        {
+            "id": 108,
+            "pl": "wzór",
+            "en": "formula",
+            "es": "fórmula",
+            "category": "nauka",
+            "difficulty": "easy",
+            "example": {
+                "en": "The chemical formula for water is H2O.",
+                "es": "La fórmula química del agua es H2O."
+            }
+        },
+        {
+            "id": 109,
+            "pl": "hipoteza",
+            "en": "hypothesis",
+            "es": "hipótesis",
+            "category": "nauka",
+            "difficulty": "hard",
+            "example": {
+                "en": "We need to test the hypothesis.",
+                "es": "Tenemos que probar la hipótesis."
+            }
+        },
+        {
+            "id": 110,
+            "pl": "ewolucja",
+            "en": "evolution",
+            "es": "evolución",
+            "category": "nauka",
+            "difficulty": "hard",
+            "example": {
+                "en": "Darwin's theory of evolution is well-known.",
+                "es": "La teoría de la evolución de Darwin es muy conocida."
+            }
+        },
+        {
+            "id": 111,
+            "pl": "telefon",
+            "en": "phone",
+            "es": "teléfono",
+            "category": "technologia",
+            "difficulty": "easy",
+            "example": {
+                "en": "My phone is ringing.",
+                "es": "Mi teléfono está sonando."
+            }
+        },
+        {
+            "id": 112,
+            "pl": "internet",
+            "en": "internet",
+            "es": "internet",
+            "category": "technologia",
+            "difficulty": "easy",
+            "example": {
+                "en": "I use the internet for work and study.",
+                "es": "Uso internet para el trabajo y el estudio."
+            }
+        },
+        {
+            "id": 113,
+            "pl": "strona",
+            "en": "website",
+            "es": "página web",
+            "category": "technologia",
+            "difficulty": "easy",
+            "example": {
+                "en": "You can find more information on our website.",
+                "es": "Puedes encontrar más información en nuestra página web."
+            }
+        },
+        {
+            "id": 114,
+            "pl": "aplikacja",
+            "en": "application",
+            "es": "aplicación",
+            "category": "technologia",
+            "difficulty": "easy",
+            "example": {
+                "en": "I downloaded a new application for my phone.",
+                "es": "Descargué una nueva aplicación para mi teléfono."
+            }
+        },
+        {
+            "id": 115,
+            "pl": "hasło",
+            "en": "password",
+            "es": "contraseña",
+            "category": "technologia",
+            "difficulty": "easy",
+            "example": {
+                "en": "Don't share your password with anyone.",
+                "es": "No compartas tu contraseña con nadie."
+            }
+        },
+        {
+            "id": 116,
+            "pl": "ekran",
+            "en": "screen",
+            "es": "pantalla",
+            "category": "technologia",
+            "difficulty": "easy",
+            "example": {
+                "en": "The screen is cracked.",
+                "es": "La pantalla está rota."
+            }
+        },
+        {
+            "id": 117,
+            "pl": "bateria",
+            "en": "battery",
+            "es": "batería",
+            "category": "technologia",
+            "difficulty": "easy",
+            "example": {
+                "en": "My phone's battery is low.",
+                "es": "La batería de mi teléfono está baja."
+            }
+        },
+        {
+            "id": 118,
+            "pl": "klawiatura",
+            "en": "keyboard",
+            "es": "teclado",
+            "category": "technologia",
+            "difficulty": "easy",
+            "example": {
+                "en": "I spilled coffee on my keyboard.",
+                "es": "Derramé café en mi teclado."
+            }
+        },
+        {
+            "id": 119,
+            "pl": "algorytm",
+            "en": "algorithm",
+            "es": "algoritmo",
+            "category": "technologia",
+            "difficulty": "hard",
+            "example": {
+                "en": "The search engine uses a complex algorithm.",
+                "es": "El motor de búsqueda utiliza un algoritmo complejo."
+            }
+        },
+        {
+            "id": 120,
+            "pl": "sztuczna inteligencja",
+            "en": "artificial intelligence",
+            "es": "inteligencia artificial",
+            "category": "technologia",
+            "difficulty": "hard",
+            "example": {
+                "en": "Artificial intelligence is changing the world.",
+                "es": "La inteligencia artificial está cambiando el mundo."
+            }
+        },
+        {
+            "id": 121,
+            "pl": "szkoła",
+            "en": "school",
+            "es": "escuela",
+            "category": "szkoła",
+            "difficulty": "easy",
+            "example": {
+                "en": "The children go to school by bus.",
+                "es": "Los niños van a la escuela en autobús."
+            }
+        },
+        {
+            "id": 122,
+            "pl": "nauczyciel",
+            "en": "teacher",
+            "es": "profesor",
+            "category": "szkoła",
+            "difficulty": "easy",
+            "example": {
+                "en": "The teacher is very patient.",
+                "es": "El profesor es muy paciente."
+            }
+        },
+        {
+            "id": 123,
+            "pl": "uczeń",
+            "en": "student",
+            "es": "alumno",
+            "category": "szkoła",
+            "difficulty": "easy",
+            "example": {
+                "en": "The student answered the question correctly.",
+                "es": "El alumno respondió a la pregunta correctamente."
+            }
+        },
+        {
+            "id": 124,
+            "pl": "książka",
+            "en": "book",
+            "es": "libro",
+            "category": "szkoła",
+            "difficulty": "easy",
+            "example": {
+                "en": "I'm reading a very interesting book.",
+                "es": "Estoy leyendo un libro muy interesante."
+            }
+        },
+        {
+            "id": 125,
+            "pl": "zeszyt",
+            "en": "notebook",
+            "es": "cuaderno",
+            "category": "szkoła",
+            "difficulty": "easy",
+            "example": {
+                "en": "Write your notes in the notebook.",
+                "es": "Escribe tus notas en el cuaderno."
+            }
+        },
+        {
+            "id": 126,
+            "pl": "pióro",
+            "en": "pen",
+            "es": "bolígrafo",
+            "category": "szkoła",
+            "difficulty": "easy",
+            "example": {
+                "en": "Can I borrow your pen?",
+                "es": "¿Puedes prestarme tu bolígrafo?"
+            }
+        },
+        {
+            "id": 127,
+            "pl": "zadanie domowe",
+            "en": "homework",
+            "es": "deberes",
+            "category": "szkoła",
+            "difficulty": "easy",
+            "example": {
+                "en": "I have to do my homework.",
+                "es": "Tengo que hacer mis deberes."
+            }
+        },
+        {
+            "id": 128,
+            "pl": "egzamin",
+            "en": "exam",
+            "es": "examen",
+            "category": "szkoła",
+            "difficulty": "easy",
+            "example": {
+                "en": "I have an exam tomorrow.",
+                "es": "Tengo un examen mañana."
+            }
+        },
+        {
+            "id": 129,
+            "pl": "biblioteka",
+            "en": "library",
+            "es": "biblioteca",
+            "category": "szkoła",
+            "difficulty": "hard",
+            "example": {
+                "en": "We study in the library after class.",
+                "es": "Estudiamos en la biblioteca después de clase."
+            }
+        },
+        {
+            "id": 130,
+            "pl": "świadectwo",
+            "en": "certificate",
+            "es": "certificado",
+            "category": "szkoła",
+            "difficulty": "hard",
+            "example": {
+                "en": "You will receive a certificate at the end of the course.",
+                "es": "Recibirás un certificado al final del curso."
+            }
+        },
+        {
+            "id": 131,
+            "pl": "lekarz",
+            "en": "doctor",
+            "es": "médico",
+            "category": "zdrowie",
+            "difficulty": "easy",
+            "example": {
+                "en": "You should see a doctor.",
+                "es": "Deberías ver a un médico."
+            }
+        },
+        {
+            "id": 132,
+            "pl": "szpital",
+            "en": "hospital",
+            "es": "hospital",
+            "category": "zdrowie",
+            "difficulty": "easy",
+            "example": {
+                "en": "My friend is in the hospital.",
+                "es": "Mi amigo está en el hospital."
+            }
+        },
+        {
+            "id": 133,
+            "pl": "choroba",
+            "en": "illness",
+            "es": "enfermedad",
+            "category": "zdrowie",
+            "difficulty": "easy",
+            "example": {
+                "en": "A serious illness can change your life.",
+                "es": "Una enfermedad grave puede cambiar tu vida."
+            }
+        },
+        {
+            "id": 134,
+            "pl": "ból",
+            "en": "pain",
+            "es": "dolor",
+            "category": "zdrowie",
+            "difficulty": "easy",
+            "example": {
+                "en": "I have a pain in my back.",
+                "es": "Tengo un dolor de espalda."
+            }
+        },
+        {
+            "id": 135,
+            "pl": "głowa",
+            "en": "head",
+            "es": "cabeza",
+            "category": "zdrowie",
+            "difficulty": "easy",
+            "example": {
+                "en": "He shook his head.",
+                "es": "Él movió la cabeza."
+            }
+        },
+        {
+            "id": 136,
+            "pl": "lek",
+            "en": "medicine",
+            "es": "medicamento",
+            "category": "zdrowie",
+            "difficulty": "easy",
+            "example": {
+                "en": "Take this medicine three times a day.",
+                "es": "Toma este medicamento tres veces al día."
+            }
+        },
+        {
+            "id": 137,
+            "pl": "gorączka",
+            "en": "fever",
+            "es": "fiebre",
+            "category": "zdrowie",
+            "difficulty": "easy",
+            "example": {
+                "en": "I have a high fever.",
+                "es": "Tengo fiebre alta."
+            }
+        },
+        {
+            "id": 138,
+            "pl": "zdrowie",
+            "en": "health",
+            "es": "salud",
+            "category": "zdrowie",
+            "difficulty": "easy",
+            "example": {
+                "en": "Exercise is good for your health.",
+                "es": "El ejercicio es bueno para tu salud."
+            }
+        },
+        {
+            "id": 139,
+            "pl": "rehabilitacja",
+            "en": "rehabilitation",
+            "es": "rehabilitación",
+            "category": "zdrowie",
+            "difficulty": "hard",
+            "example": {
+                "en": "He is undergoing physical rehabilitation.",
+                "es": "Está sometiéndose a rehabilitación física."
+            }
+        },
+        {
+            "id": 140,
+            "pl": "diagnoza",
+            "en": "diagnosis",
+            "es": "diagnóstico",
+            "category": "zdrowie",
+            "difficulty": "hard",
+            "example": {
+                "en": "The doctor's diagnosis was a relief.",
+                "es": "El diagnóstico del médico fue un alivio."
+            }
+        },
+        {
+            "id": 141,
+            "pl": "miasto",
+            "en": "city",
+            "es": "ciudad",
+            "category": "miasto",
+            "difficulty": "easy",
+            "example": {
+                "en": "I live in a big city.",
+                "es": "Vivo en una ciudad grande."
+            }
+        },
+        {
+            "id": 142,
+            "pl": "ulica",
+            "en": "street",
+            "es": "calle",
+            "category": "miasto",
+            "difficulty": "easy",
+            "example": {
+                "en": "My house is on the main street.",
+                "es": "Mi casa está en la calle principal."
+            }
+        },
+        {
+            "id": 143,
+            "pl": "budynek",
+            "en": "building",
+            "es": "edificio",
+            "category": "miasto",
+            "difficulty": "easy",
+            "example": {
+                "en": "That is the tallest building in the city.",
+                "es": "Ese es el edificio más alto de la ciudad."
+            }
+        },
+        {
+            "id": 144,
+            "pl": "sklep",
+            "en": "shop",
+            "es": "tienda",
+            "category": "miasto",
+            "difficulty": "easy",
+            "example": {
+                "en": "I'm going to the shop to buy bread.",
+                "es": "Voy a la tienda a comprar pan."
+            }
+        },
+        {
+            "id": 145,
+            "pl": "park",
+            "en": "park",
+            "es": "parque",
+            "category": "miasto",
+            "difficulty": "easy",
+            "example": {
+                "en": "Let's go for a walk in the park.",
+                "es": "Vamos a dar un paseo por el parque."
+            }
+        },
+        {
+            "id": 146,
+            "pl": "samochód",
+            "en": "car",
+            "es": "coche",
+            "category": "miasto",
+            "difficulty": "easy",
+            "example": {
+                "en": "My car is parked outside.",
+                "es": "Mi coche está aparcado fuera."
+            }
+        },
+        {
+            "id": 147,
+            "pl": "autobus",
+            "en": "bus",
+            "es": "autobús",
+            "category": "miasto",
+            "difficulty": "easy",
+            "example": {
+                "en": "The bus arrives at five o'clock.",
+                "es": "El autobús llega a las cinco en punto."
+            }
+        },
+        {
+            "id": 148,
+            "pl": "rondo",
+            "en": "roundabout",
+            "es": "rotonda",
+            "category": "miasto",
+            "difficulty": "easy",
+            "example": {
+                "en": "Take the third exit at the roundabout.",
+                "es": "Toma la tercera salida en la rotonda."
+            }
+        },
+        {
+            "id": 149,
+            "pl": "ratusz",
+            "en": "town hall",
+            "es": "ayuntamiento",
+            "category": "miasto",
+            "difficulty": "hard",
+            "example": {
+                "en": "The meeting will be held at the town hall.",
+                "es": "La reunión se celebrará en el ayuntamiento."
+            }
+        },
+        {
+            "id": 150,
+            "pl": "zabytek",
+            "en": "monument",
+            "es": "monumento",
+            "category": "miasto",
+            "difficulty": "hard",
+            "example": {
+                "en": "This monument is hundreds of years old.",
+                "es": "Este monumento tiene cientos de años."
+            }
+        }
+    ]
+}
