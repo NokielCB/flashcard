@@ -21,7 +21,7 @@ Moja aplikacja codziennie generuje zestaw 10 fiszek, identyczny dla wszystkich u
 - Responsywnosc
 - Wybor jezyka do nauki (angielski / hiszpanski), zapis do localStorage
 
-### Krótki przewodnik po frontendzie aplikacji FitTrack.
+### Krótki przewodnik po frontendzie aplikacji FlashCard.
 
 ## Szybki start
 1. Sklonuj repozytorium
@@ -46,7 +46,7 @@ npm run preview
 ```
 
 ## Konfiguracja
-- Projekt nie wymaga kluczy API w tym repo, API jest prywatnym projektem, dostęp do backendu możliwy po kontakcie prywatnym, jeżeli masz własne API to zmień lokalizację w vite.config.ts 
+- Projekt nie wymaga kluczy API w tym repo, API jest prywatnym projektem.
 
 ## Struktura projektu (krótko)
 - `src/` — kod źródłowy
